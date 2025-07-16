@@ -1,30 +1,36 @@
-## 你好！ 👋
-Techology enthusiast here, working on some passion projects and occasionally coding to automate parts of my work.
+# 👋 Hi, I'm Joshua Kiley!
 
-## Road to Code
-Way way back in 2007 I upgraded my Windows XP laptop to Windows Vista and everything broke.
+Welcome to my GitHub profile! I’m the **IT Manager & Systems Architect** at CNR Group ECS LLC—a construction company where I wear many hats, from managing infrastructure to architecting new solutions, administering systems, and scripting automations. As the sole IT professional, I oversee everything tech-related, ensuring our operations run smoothly and securely.
 
-I didn't know anything about fixing software at the time; the engineering high school I graduated from had focused more on the hardware side of digital electronics. After being told by Microsoft and HP that I would have to purchase a new license key to reinstall Windows XP, I decided to start reading up on Linux.
+## 🚀 About Me
 
-I finally got the courage to install Linux on my computer to revive it and everything broke.
+- 💼 **Role:** IT Manager & Systems Architect  
+- 🏢 **Company:** CNR Group ECS LLC  
+- 🌍 **Location:** [Add your city/country here if you wish]
+- 🛠️ **Top Skills:**  
+  - PowerShell  
+  - Bash  
+  - Python  
+  - Windows Server  
+  - Linux Server  
 
-Unlike Windows, I didn't feel compelled to turn to the company support line, because it didn't exist. Instead, I was able to find a very friendly community who helped me get through my first, and terrifying, and exciting experience with BASH.
+## 🏗️ Featured Project
 
-After years of BASH, a little bit og hacking on Android, and Linux, and after [this PCWorld article](https://www.pcworld.com/article/468577/google_workaround_found_by_chinese_critical_of_internet_censorship.html), I left my teaching job in China and got a job at one of my favorite Linux companies, System76.
+### [Server Setup Notes](https://github.com/joshuakiley/server_setup_notes)
+My homelab project! An Ubuntu server hosting Docker containers, used for experimenting, learning, and documenting server configurations. It’s a living, evolving mess—feel free to explore or borrow ideas.
 
-Now I provide IT services to companies in the New York City area in hopes that one day I might get hired by Google, Rockstar, Red Hat, or land a job at a school.
+## 📈 GitHub Stats
 
-<!--
-**joshuakiley/joshuakiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuakiley&show_icons=true&hide=prs&count_private=true)
 
-Here are some ideas to get you started:
+## 🤝 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/joshua-kiley/)
+
+## 🎉 Fun Fact
+
+Before diving into IT, I spent 9 years teaching English in China and can speak Chinese at an upper intermediate level!
+
+---
+
+Thanks for stopping by! Feel free to browse my repos, especially if you want tips or notes about real-world IT operations and homelab setups. If you’re interested in collaborating or just want to chat about tech (or China!), reach out!
