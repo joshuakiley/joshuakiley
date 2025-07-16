@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m the **IT Manager & Systems Architect** at CN
 
 - 💼 **Role:** IT Manager & Systems Architect  
 - 🏢 **Company:** CNR Group ECS LLC  
-- 🌍 **Location:** [Add your city/country here if you wish]
+- 🌍 **Location:** New York, NY
 - 🛠️ **Top Skills:**  
   - PowerShell  
   - Bash  
